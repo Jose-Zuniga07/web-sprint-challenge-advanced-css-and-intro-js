@@ -159,8 +159,9 @@ button:hover{
         width: 100%;
     }
 
-    hr {
-        display: none;
+    .title-container hr {
+        width: 100%;
+        color: lightgray;
     }
 
     .artist {
